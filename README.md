@@ -3,7 +3,7 @@ Convert raw GPX data to Drive cycle data consisting of speed, elevation and dist
 GUI made with Tkinter and elevation data taken from SRTM database by NASA.<br><br>
 IMPORTANT: SRTM folder and executable file must be in the same directory!! <br><br>
 This is used by CAE Lab, BUET for various projects.<br><br>
-Feel free to use but acknowlwdgement to this repository is expected.<br><br>
+Feel free to use but acknowledgement to this repository is expected.<br><br>
 <hr>
 <center>
   <b>Md.Akib Khan</b><br>
